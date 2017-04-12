@@ -15,9 +15,12 @@ public static void main(String[] args){
     System.out.println("INGRESE EL VALOR DE 'c':");
     int C = teclado.nextInt();
     double m=((A*C)/(B*C))*-1;
+    double x=(C/A)*-1;
+    double y=(C/B)*-1;
     double Rad=Math.atan(m);
     double gra=Math.toDegrees(Rad);
-    System.out.println("pendiente es: "+m+", y la pendiente es de "+gra+" grados");
+    System.out.println("La Recta pasa por los puntos: ("+x+" , 0.0) y (0.0 , "+y+"),");
+    System.out.println("Su pendiente es: "+m+", y equivale a "+gra+" grados");
 
 
 
