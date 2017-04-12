@@ -1,4 +1,4 @@
-package guia.de.ejercicios;
+package guia_ejercicios_stisv;
 
 public class Ejercicio_1 {
 //Crear un programa que imprima los numeros pares del 100 al 300 usando bucles for
