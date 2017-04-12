@@ -14,7 +14,10 @@ public static void main(String[] args){
     int B = teclado.nextInt();
     System.out.println("INGRESE EL VALOR DE 'c':");
     int C = teclado.nextInt();
-    
+    double m=((A*C)/(B*C))*-1;
+    double Rad=Math.atan(m);
+    double gra=Math.toDegrees(Rad);
+    System.out.println("pendiente es: "+m+", y la pendiente es de "+gra+" grados");
 
 
 
