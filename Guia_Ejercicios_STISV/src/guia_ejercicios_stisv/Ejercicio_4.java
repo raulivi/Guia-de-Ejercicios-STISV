@@ -20,7 +20,7 @@ public static void main(String[] args){
     double Rad=Math.atan(m);
     double gra=Math.toDegrees(Rad);
     System.out.println("La Recta pasa por los puntos: ("+x+" , 0.0) y (0.0 , "+y+"),");
-    System.out.println("Su pendiente es: "+m+", y equivale a "+gra+" grados");
+    System.out.println("Su pendiente es: "+m+", lo que equivale a "+gra+" grados");
 
 
 
