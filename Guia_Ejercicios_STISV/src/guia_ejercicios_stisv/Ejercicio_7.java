@@ -8,7 +8,14 @@ imprimirá el total ahorrado por todos los niños y el promedio de ahorro diario
 public class Ejercicio_7 {
  
  public static void main(String[] args) {
-   
-    
+    // nombre de los niños
+    String[] nombres=new String[5];
+    //cantidad de ahorro
+    double[] ahorro=new double[5];
+    System.out.println("Por Favor, Ingrese los datos de los niños");
+     for (int i = 0; i < 10; i++) {
+         
+     }
+
  }
 }
