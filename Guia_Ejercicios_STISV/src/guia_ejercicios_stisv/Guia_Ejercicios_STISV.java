@@ -27,7 +27,10 @@ public class Guia_Ejercicios_STISV {
     d. Horas trabajadas
     e. Horas extras tabajadas
     f. Horas nocturnas trabajadas
-Se pide calcular el total a pagar para un empleado, sabiendo que la hora se le paga a $5.00 mientras que la hora extra vale 1.5 la hora normal y la hora nocturana el doble de la hora normal, al final se descontará un 10% de renta y recibirá un bono en efectivo del 5% sobre su salario liquido a recibir si las horas pasan las 60 horas en total.
+Se pide calcular el total a pagar para un empleado, sabiendo que la hora se le paga a $5.00 
+        mientras que la hora extra vale 1.5 la hora normal y la hora nocturana el doble de la 
+        hora normal, al final se descontará un 10% de renta y recibirá un bono en efectivo del 
+        5% sobre su salario liquido a recibir si las horas pasan las 60 horas en total.
 
 4) Crear un programa que resuelva ecuaciones de tipo ax + by + c =0
 
@@ -37,11 +40,15 @@ Se pide calcular el total a pagar para un empleado, sabiendo que la hora se le p
     3. Programa 3
     4. Programa 4
     5. Salir
-El objetivo es que el menu estará siempre visible y el programa no cerrará hasta que seleccione la opción 5 (de salir) y por cada opción a seleccionar ejecutará el programa respectivo (los 4 anteriores)
+El objetivo es que el menu estará siempre visible y el programa no cerrará hasta que seleccione 
+        la opción 5 (de salir) y por cada opción a seleccionar ejecutará el programa respectivo (los 4 anteriores)
 
-6) Investigue: ¿Cómo ejecutar comandos de windows desde java? Y realice un programa en el cual ingresará la cantidad de minutos cualquiera y en esa cantidad de minutos la computadora se apagará.
+6) Investigue: ¿Cómo ejecutar comandos de windows desde java? Y realice un programa en el cual 
+        ingresará la cantidad de minutos cualquiera y en esa cantidad de minutos la computadora se apagará.
 
-7) Crear un programa que permita ingresar el nombre de 5 niños, asi como la cantidad de ahorro diario que realizan por una semana. El objetivo es usar arreglos paralelos para el registro de estos datos y al final el programa imprimirá el total ahorrado por todos los niños y el promedio de ahorro diario.
+7) Crear un programa que permita ingresar el nombre de 5 niños, asi como la cantidad de ahorro 
+        diario que realizan por una semana. El objetivo es usar arreglos paralelos para el registro de estos 
+        datos y al final el programa imprimirá el total ahorrado por todos los niños y el promedio de ahorro diario.
 
 8) Cree un programa que imprima una piramide de asteríscos de “n” altura, por ejemplo si se ingresa 3, el resultado sería:
   *
