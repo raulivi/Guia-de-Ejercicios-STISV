@@ -25,11 +25,12 @@ public static void main(String[] args) throws IOException{
     int seg=time*60;
     System.out.println("Su PC se apagará en "+time+" minutos");
     try{
-        Runtime.getRuntime().exec("SHUTDOWN -l -t "+seg);
+        Runtime.getRuntime().exec("SHUTDOWN -s -t "+seg);
         //-s apagar y -l cierra sesion
     }
     catch(IOException ioe){
-        ioe.printStackTrace();
+        ioe.getMessage();
+        System.out.println(ioe);
     }
   
  }
